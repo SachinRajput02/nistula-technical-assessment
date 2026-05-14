@@ -1,6 +1,6 @@
 # Nistula Guest Message Handler
 
-This is my submission for the Nistula Summer Technology Internship 2026 — Part 1.
+This is my submission for the Nistula Summer Technology Internship 2026.
 
 The system receives a guest message from any channel (WhatsApp, Airbnb, Booking.com, Instagram, or Direct), figures out what the guest is asking, drafts a reply using Claude, scores how confident it is in that reply, and returns everything in one response.
 
